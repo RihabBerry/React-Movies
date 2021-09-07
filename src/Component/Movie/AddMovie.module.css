@@ -1,0 +1,14 @@
+input,
+textarea {
+  display: block;
+  width: 100%;
+  border: 1px solid #ccc;
+  outline: none;
+  text-align: left;
+  margin: 25px 0;
+  border-radius: 10px;
+  padding: 10px;
+}
+label {
+  float: left;
+}
